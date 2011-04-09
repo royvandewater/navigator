@@ -1,9 +1,9 @@
 {
-    "name": "n", 
-    "license": "MPL 1.1/GPL 2.0/LGPL 2.1", 
-    "author": "", 
+    "name": "Navigator", 
+    "license": "OpenBSD", 
+    "author": "Drew LeSueur & Roy van de Water", 
     "version": "0.1", 
-    "fullName": "n", 
+    "fullName": "Navigator Extreme", 
     "id": "jid0-BF1lVk5B7QFldPwFAdaMFhTnhlE", 
-    "description": "a basic add-on"
+    "description": "Helps navigate around liberty sweet"
 }

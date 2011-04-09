@@ -1,8 +1,9 @@
 {
-  "name": "n",
-  "fullName": "n",
-  "description": "a basic add-on",
-  "author": "",
-  "license": "MPL 1.1/GPL 2.0/LGPL 2.1",
-  "version": "0.1"
+    "name": "n", 
+    "license": "MPL 1.1/GPL 2.0/LGPL 2.1", 
+    "author": "", 
+    "version": "0.1", 
+    "fullName": "n", 
+    "id": "jid0-BF1lVk5B7QFldPwFAdaMFhTnhlE", 
+    "description": "a basic add-on"
 }

@@ -1,9 +1,8 @@
 $("#form").submit(function(e){
   e.preventDefault();
-  postMessage($("#text").val());
+  postMessage($("#search").val());
 });
 
 onMessage = function onMessage(message) {
-  console.log("hi");
-  $('#text').focus();
+  $('#search').focus();
 }

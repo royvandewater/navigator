@@ -1,9 +1,9 @@
 {
-    "name": "navigator", 
+    "description": "Helps navigate around liberty sweet", 
     "license": "OpenBSD", 
     "author": "Drew LeSueur & Roy van de Water", 
     "version": "0.1", 
     "fullName": "Navigator Extreme", 
-    "id": "jid0-BF1lVk5B7QFldPwFAdaMFhTnhlE", 
-    "description": "Helps navigate around liberty sweet"
+    "id": "jid0-4eEHkt1WrUj2mytzpxTByQi06zw", 
+    "name": "navigator"
 }

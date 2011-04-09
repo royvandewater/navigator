@@ -1,4 +1,4 @@
-This is the navigator add-on.  It contains:
+This is the n add-on.  It contains:
 
 * A program (lib/main.js).
 * A few tests.

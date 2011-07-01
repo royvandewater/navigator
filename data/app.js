@@ -4,6 +4,6 @@ $("#form").submit(function(e){
   $('#search').val('');
 });
 
-onMessage = function onMessage(message) {
+self.on('message', function onMessage(message) {
   $('#search').focus();
-}
+});

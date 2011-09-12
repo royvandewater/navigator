@@ -1,7 +1,7 @@
 Navigator Extreme
 =================
 
-Latest Version: v0.4
+Latest Version: v0.5
 
 This is the n add-on.  It contains:
 
